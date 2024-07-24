@@ -1,5 +1,9 @@
 # Hospital Triage Application
 
+Portfolio: https://github.com/utct/portfolio
+A2: https://github.com/ChadaBendriss/yatzy
+A3: https://github.com/ChadaBendriss/yatzy/tree/a3
+
 ## How to run locally
 1. Clone this repository.
 2. Create a new DB on pgAdmin
