@@ -21,3 +21,14 @@
 1. Open index.html and enter patient information
 2. The application will assign a random severity and display the estimated wait time
 3. Open admin.html to see or treat the patients 
+
+
+![Screenshot 1](docs/newpatient.png)
+
+![Screenshot 2](docs/admin.png)
+
+![Screenshot 3](docs/admintreating.png)
+
+![Screenshot 4](docs/adminpayload.png)
+
+![Screenshot 5](docs/database.png)
