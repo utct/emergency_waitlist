@@ -13,6 +13,7 @@
     queue_time TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
     status VARCHAR(50) DEFAULT 'waiting'
 );
+
 4. Navigate to project directory on command prompt and run php -S localhost:8000
 
 
