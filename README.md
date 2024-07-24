@@ -22,13 +22,27 @@
 2. The application will assign a random severity and display the estimated wait time
 3. Open admin.html to see or treat the patients 
 
+## Screenshots
 
+## Entering patient information with a 3 letter code
 ![Screenshot 1](docs/newpatient.png)
 
+
+
+## Admin checking on patients
 ![Screenshot 2](docs/admin.png)
 
+
+
+## Admin treating one of the patients
 ![Screenshot 3](docs/admintreating.png)
 
+
+
+## The payload of the request
 ![Screenshot 4](docs/adminpayload.png)
 
+
+
+## Patient is seen as "treated" in the DB
 ![Screenshot 5](docs/database.png)
