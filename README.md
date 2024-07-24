@@ -1,5 +1,6 @@
 # emergency_waitlist
 
+## How to run locally
 1. Clone this repository.
 2. Create a new DB on pgAdmin
 3. Create the table: 
