@@ -10,7 +10,7 @@ document.getElementById('signin-form').addEventListener('submit', function(event
         headers: {
             'Content-Type': 'application/x-www-form-urlencoded',
         },
-        body: `name=${name}&code=${code}&severity=1`
+        body: `name=${name}&code=${code}`
     })
     .then(response => response.json())
     .then(data => {
