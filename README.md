@@ -1,4 +1,4 @@
-# emergency_waitlist
+# Hospital Triage Application
 
 ## How to run locally
 1. Clone this repository.
